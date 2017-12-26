@@ -1,5 +1,5 @@
 <update>
     <version>0.0.2</version>
     <name>Parcel Port</name>
-    <url>https://github.com/webosmotic-developer/apk-auto-update/blob/master/pp2.apk</url>
+    <url>https://s3.us-east-2.amazonaws.com/parcelport/apk/pp2.apk</url>
 </update>
